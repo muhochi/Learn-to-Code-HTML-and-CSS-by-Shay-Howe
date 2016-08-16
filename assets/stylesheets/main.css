@@ -56,7 +56,7 @@ Custom styles
 
 body {
 	color: #888;
-	font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*
@@ -225,6 +225,7 @@ Home
 
 .hero p {
 	font-size: 24px;
+	font-weight: 100;
 }
 
 .teaser a:hover h3 {
@@ -242,7 +243,10 @@ Primary Header
 	padding: 40px 0 22px 0;
 	float: left;
 	font-size: 48px;
+	font-weight: 100;
+	letter-spacing: .5px;
 	line-height: 44px;
+	text-transform: uppercase;
 }
 
 .tagline {
