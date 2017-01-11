@@ -1,2 +1,1 @@
-# styles-conference
-Those are exercises based on book 'Learn to Code HTML &amp; CSS' by Shay Howe
+11 lessons with HTML and CSS exercises based on book 'Learn to Code HTML &amp; CSS' by Shay Howe. Each lesson covers different HTML and CSS topics. Those are HTML and CSS basics. During exercises Styles Conference website is being built. 
